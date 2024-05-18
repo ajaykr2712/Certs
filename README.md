@@ -5,5 +5,7 @@
 ### CERT 3 <a href="https://drive.google.com/file/d/1W4bRDWv2Juzq9O4haIvRB4Y4p1MluY_m/view?usp=sharing">Cisco® CyberOps Associate course  📧</a>
 ### CERT 4 <a href="https://drive.google.com/file/d/1s8IQ9akHSikKj4Ohl-5tu881PcWRHZbf/view?usp=sharing">Cyber Hygiene Practitioner 🛠️</a>
 ### CERT 5 <a href="https://drive.google.com/file/d/1Lgt1Zud07gOULieYoD4aCby4ZxIE_DOa/view?usp=sharing">Introduction to Cybersecurity Essentials</a>
+### CERT  <a href="https://drive.google.com/file/d/1J2q7vJwMYZxvFCcmv2EnbKcvuit3iWn0/view?usp=sharing">Master Generative AI:Automate Content Effortlessly with AI</a>
+
 
 
